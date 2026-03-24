@@ -1,7 +1,7 @@
 ## Hi, I'm Nadya 💖
 
 🎀 Computer Science student @ PSU Behrend<br/>
-🎀 Programmer at the VAR Lab<br/>
+🎀 Programmer and Research at the VAR Lab<br/>
 🎀 Working on undergraduate research in Machine Learning and Software Engineering<br/> 
 
 
